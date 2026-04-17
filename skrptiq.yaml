@@ -1,0 +1,42 @@
+# --- Identity ---
+id: "2e0a6b60-d741-4e21-a0da-0335697ed99b"
+name: "templates-assets"
+display_name: "Asset Templates"
+description: "Asset templates — reports, personas, rubrics, checklists, and glossaries"
+version: "1.0.0"
+engine: ">=1.0.0"
+
+# --- Attribution ---
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+
+licence: "MIT"
+repository: "https://github.com/skrpts/templates-assets"
+
+# --- Discovery (Hub) ---
+category: "templates"
+tags:
+  - "templates"
+  - "asset"
+
+# --- Security & Access ---
+requires:
+  services:
+    - "llm-service"
+  permissions: []
+  data_handling: []
+
+# --- Manifest flags ---
+template: true
+
+# --- Contents ---
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 1
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 8
+  total: 9

@@ -2,7 +2,7 @@
 type: asset
 id: asset-persona
 title: "AI Persona"
-description: "Persona definition for consistent AI behaviour"
+description: "Persona definition for consistent AI behavior"
 tags: [Production, Template]
 connections: []
 metadata:
